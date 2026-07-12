@@ -35,7 +35,7 @@ Register → Login → Choose Your Powerpuff Girl → Fight 5 Monster Levels →
 - GCC Compiler
 - GitHub
 
-## Team Members
+## Team Members (Team PowerPuff Girls)
 - Rubaba Binte Mahbub (ID: 20254103260)
 - Rezowan Hossain Rodela (ID: 20254103258)
 - Mehreen Bintay Yusuf Simin (ID: 20254103266)
