@@ -1,5 +1,5 @@
 ## Project Name
-PowerPuff Quest
+PowerPuff Quest Game
 
 ## Overview
 A simple terminal-based RPG game developed in C featuring user authentication and Powerpuff Girls-themed battles.This is a group project developed for the Software Development course. The project is written in the C programming language.
