@@ -38,7 +38,7 @@ Register → Login → Choose Your Powerpuff Girl → Fight 5 Monster Levels →
 ## Team Members
 - Rubaba Binte Mahbub (ID: 20254103260)
 - Rezowan Hossain Rodela (ID: 20254103258)
-- Mehreen Bintay Yusuf Simin (ID: 20254103260)
+- Mehreen Bintay Yusuf Simin (ID: 20254103266)
 
 ## Project Structure
 ```
@@ -52,9 +52,39 @@ PowerPuff-Quest/
 │── LICENSE
 ```
 
-## How to Compile
+## How to Compile and Run
 
-Compiler : Use any standard C compiler (GCC, Clang, or IDEs like CodeBlocks/VS Code).
+<!--Compiler : Use any standard C compiler (GCC, Clang, or IDEs like CodeBlocks/VS Code). <br>
+Run :
+```bash
+gcc main.c auth.c game.c -o PowerPuffQuest
+./PowerPuffQuest
+```
+-->
+
+## 🚀 How to Compile and Run
+
+### Compile
+
+```bash
+gcc main.c auth.c game.c -o PowerPuffQuest
+```
+
+### Run
+
+**Linux / macOS**
+```bash
+./PowerPuffQuest
+```
+
+**Windows (MinGW)**
+```bash
+PowerPuffQuest.exe
+```
+## 🚀 Run in Code::Blocks
+1. Open the project or source files in Code::Blocks.
+2. Click **Build and Run** (or press **F9**).
+3. The game will compile and start automatically.
 
 ## License
 
