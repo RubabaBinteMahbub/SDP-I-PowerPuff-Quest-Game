@@ -92,4 +92,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Developed as a Software Development course (SDP 100) project.
+Developed as a Software Development Course - I (CSE 100) project.
