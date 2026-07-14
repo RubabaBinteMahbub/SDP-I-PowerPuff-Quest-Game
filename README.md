@@ -52,7 +52,7 @@ PowerPuff-Quest/
 │── LICENSE
 ```
 
-## How to Compile and Run
+<!--## How to Compile and Run-->
 
 <!--Compiler : Use any standard C compiler (GCC, Clang, or IDEs like CodeBlocks/VS Code). <br>
 Run :
