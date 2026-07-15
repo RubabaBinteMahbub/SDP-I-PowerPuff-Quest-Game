@@ -52,6 +52,7 @@ int loginUser() {
 
     int found = 0;
 
+    // যতক্ষণ পর্যন্ত ফাইল থেকে username এবং password—দুটি string-ই সফলভাবে পড়া যাচ্ছে, ততক্ষণ লুপ চালাও।
     while (fscanf(fp, "%49s %49s", fileUser, filePass) == 2) {
         if (strcmp(username, fileUser) == 0 &&
             strcmp(password, filePass) == 0) {
