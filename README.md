@@ -5,16 +5,16 @@ PowerPuff Quest Game
 A simple terminal-based RPG game developed in C featuring user authentication and Powerpuff Girls-themed battles.This is a group project developed for the Software Development course. The project is written in the C programming language.
 
 ## Features
-👤 User Registration System
-🔐 Secure Login Authentication
-🎮 Powerpuff Girls Character Selection (Blossom, Bubbles, Buttercup)
-👾 Battle Against 5 Different Monsters
-❤️ HP (Health Points) Management
-⚔️ Attack and Heal Gameplay Mechanics
-📈 Multi-Level Progression System
-🎨 Colorful Terminal Interface using ANSI Colors
-💾 File-Based User Data Storage (users.txt)
-🏆 Win/Lose Game Outcome
+👤 User Registration System <br>
+🔐 Secure Login Authentication <br>
+🎮 Powerpuff Girls Character Selection (Blossom, Bubbles, Buttercup) <br>
+👾 Battle Against 5 Different Monsters <br>
+❤️ HP (Health Points) Management <br>
+⚔️ Attack and Heal Gameplay Mechanics <br>
+📈 Multi-Level Progression System <br>
+🎨 Colorful Terminal Interface using ANSI Colors <br>
+💾 File-Based User Data Storage (users.txt) <br>
+🏆 Win/Lose Game Outcome <br>
 
 ## 🎮 Gameplay
 1. Register a new account.
