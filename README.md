@@ -279,13 +279,21 @@ The game displays a **GAME OVER** message and removes the saved game state.
 
 ---
 
+## 🔮 Future Improvements
+
+* 🌐 Add multiple player and leaderboard system
+* 🛡️ Implement encrypted password storage
+* 🎵 Add background music and sound effects
+* 💾 Support multiple save slots
+* 🎨 Improve the overall terminal UI and animations
+
 ## 👥 Team Members
 
 ### Team PowerPuff Girls
 
-* **Rubaba Binte Mahbub** — ID: 20254103260
-* **Rezowan Hossain Rodela** — ID: 20254103258
-* **Mehreen Bintay Yusuf Simin** — ID: 20254103266
+* **Rubaba Binte Mahbub** (ID: 20254103260)
+* **Rezowan Hossain Rodela** (ID: 20254103258)
+* **Mehreen Bintay Yusuf Simin** (ID: 20254103266)
 
 ---
 
